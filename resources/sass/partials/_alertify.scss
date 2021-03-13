@@ -1,0 +1,17 @@
+.alertify, .alertify-notifier {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.alertify .ajs-footer .ajs-buttons.ajs-primary .ajs-button {
+    color: #fff;
+
+    &.btn-primary {
+        background-color: #3f51b5;
+        border-color: #3f51b5;
+    }
+
+    &.btn-danger {
+        background-color: #f50057;
+        border-color: #f50057;
+    }
+}
